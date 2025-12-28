@@ -503,7 +503,7 @@ Me enfoco en crear sistemas modulares y escalables, pensados para crecer de form
               </div>
 
               {/* <div className="contactCards">
-                <div className="miniCard">
+                <div className="miniCard">a
                   <div className="miniTitle">Disponibilidad</div>
                   <div className="miniText">Freelance y full time</div>
                 </div>
